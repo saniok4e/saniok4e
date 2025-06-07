@@ -14,7 +14,7 @@
 
 ## 📂 Проекты
 - [pocketbase-signer](https://git.gocommunity.ru/sanek5g/pocketbase-signer) — backend на Go + docker-compose
-- [Telegram Quiz Bot](https://github.com/saniok4e) — телеграм бот для квиза на Go
+- [Telegram Quiz Bot](https://github.com/saniok4e/tg-quiz-template) — телеграм бот для квиза на Go
 
 ## 📫 Связаться:
 - Telegram: [@saniok4e](https://t.me/melalexETH)
