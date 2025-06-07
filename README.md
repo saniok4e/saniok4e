@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Саша 👋
 
-<!--
-**saniok4e/saniok4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Начинающий DevOps-инженер  
+🔧 Увлечён автоматизацией, облаками и инфраструктурой  
+💡 В процессе перехода из pet-проектов в коммерческую сферу
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек
+- Docker / Docker Compose
+- Kubernetes (базовый уровень)
+- Terraform (начальный уровень, Yandex.Cloud)
+- Ansible (inventory и конфиг-файлы)
+- Jenkins (начальное знакомство)
+- Go / Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Проекты
+- [pocketbase-signer](https://git.gocommunity.ru/sanek5g/pocketbase-signer) — backend на Go + docker-compose
+- [Telegram Quiz Bot](https://github.com/saniok4e) — телеграм бот для квиза на Go
+
+## 📫 Связаться:
+- Telegram: [@saniok4e](https://t.me/melalexETH)
+- Email: melalexETH@yandex.ru
