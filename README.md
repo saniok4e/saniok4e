@@ -17,5 +17,5 @@
 - [Telegram Quiz Bot](https://github.com/saniok4e/tg-quiz-template) — телеграм бот для квиза на Go
 
 ## 📫 Связаться:
-- Telegram: [@saniok4e](https://t.me/melalexETH)
+- Telegram: [@melalexETH](https://t.me/melalexETH)
 - Email: melalexETH@yandex.ru
